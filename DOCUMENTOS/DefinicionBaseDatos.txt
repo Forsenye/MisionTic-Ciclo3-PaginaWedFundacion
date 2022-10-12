@@ -1,0 +1,6 @@
+Fundacion MENUDEI
+donante: tipo documento, documento, nombres, apellidos, celular, email.
+tipo de donacion: dinero, especie.
+Origen: persona natural, persona juridica.
+
+
